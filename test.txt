@@ -49,6 +49,7 @@ git push origin <NAME> : Uses alias to replace remote repository URL
 git clone <LINK> : Clone repository into local environment
 git remote -v : check the alias of the remote repository
 
+git pull origin <NAME> : pulls code from repository and merges it into local NAME branch
 
 
 
