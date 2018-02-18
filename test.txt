@@ -45,3 +45,10 @@ git push <LINK> <NAME> : pushes branch NAME to Github repository in LINK
 
 git remote add origin <LINK> : Creates an alias to the remote repository
 git push origin <NAME> : Uses alias to replace remote repository URL
+
+git clone <LINK> : Clone repository into local environment
+git remote -v : check the alias of the remote repository
+
+
+
+
