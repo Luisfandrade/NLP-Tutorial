@@ -1,0 +1,9 @@
+nltk
+numpy
+pandas
+beautifulsoup4
+sklearn
+wikipedia
+gensim
+seaborn
+matplotlib
